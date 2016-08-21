@@ -1,0 +1,22 @@
+~~NOTOC~~
+======  Contact Us======
+ 
+\\
+
+===== ANCHETA, Jesus Jr. =====
+
+|//Address: //| 70 The Pond Road, North York, ON M3J 3M6 | 
+|//Telephone: //|416.491.5050 or 416.493.4144| 
+|//Dokuwiki URL: //| [[http://zenit.senecac.on.ca/~int322_162a02/dokuwiki/doku.php]]| 
+
+===== Send us email =====
+<php>
+include 'contact.php';
+</php>
+
+\\
+===== Map & Directions =====
+
+| <html>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11524.2913580346!2d-79.4999332!3d43.7713468!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbc31fe6993cfec3d!2sSeneca%40York+Campus!5e0!3m2!1sen!2sca!4v1470763261579" width="515" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+</html>|

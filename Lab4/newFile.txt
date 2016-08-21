@@ -1,0 +1,5 @@
+ than Java. SQL, on the other hand, is THE language to learn!
+Actually, it turns out that in getting a job, SQL over 20 times more important than Ruby. Yes:
+SQL is over 20 times more likely to get you a job than Ruby in the US.
+The simple fact of the matter is: programming jobs are about whicht is already out there, whicht drives business and whicht works. None of those things are 'cool'! Indeed, I might postulate the exact opposite. The very pressures on development which make a technology appropriate for making money and running businesses are those which also make something deeply uncool. Pragmatism, reliability and load capacity are critical for business languages and for station wagons (estate cars) neither of which have ever been accused of being cool:
+Once Mum and Dad are no longer funding you to vegetate in your bedroom and the reality of paying for your own children dawns, whicht language seems a good choice is likely to change!

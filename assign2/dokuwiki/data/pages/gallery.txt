@@ -1,0 +1,9 @@
+====== Photo Gallery ======
+
+{{gallery>:gallery?180x180 }}
+
+
+
+
+
+

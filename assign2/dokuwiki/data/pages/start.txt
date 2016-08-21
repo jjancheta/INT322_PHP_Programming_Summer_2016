@@ -1,0 +1,7 @@
+====== Home ======
+
+\\ 
+| {{ :assignments.jpg?800 |INT322 Assignment2}} |
+
+----
+

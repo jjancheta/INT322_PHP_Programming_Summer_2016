@@ -1,0 +1,29 @@
+~~NOTOC~~
+======My Site Pools ======
+\\
+<poll [Top 10 Cities to Visit 2016]>
+ [ Which city you want to visit this year? ]
+
+  * [Jerusalem, Israel]
+  * [Cape Town, South Africa]
+  * [Barcelona, Spain]
+  * [Krakow, Poland]
+  * [Bangkok, Thailand]
+  * [Rome, Italy]
+  * [Florence Italy]
+  * [Siem Reap, Cambodia]
+  * [Dubai, United Arab Emirates]
+  * [Kyoto, Japan]
+</poll>
+
+
+\\
+====== My Site Statistics ======
+\\
+| ~~QUICKSTATS:pages;;10~~ | ~~QUICKSTATS:countries;;10~~ |
+
+\\
+
+====== Plugins and Credits ======
+\\
+<<CREDITS:~nodesc~>>
